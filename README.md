@@ -8,7 +8,7 @@ Go to the chosen directory
   
 From terminal run:
   
-    gcc *.c *.h -o program
+    gcc machiavelli/*.c machiavelli/*.h -o program
   
     ./program
   
