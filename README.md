@@ -12,4 +12,4 @@ From terminal run:
   
     ./program
   
- Enjoy!!! :)
+ Enjoy!!!
